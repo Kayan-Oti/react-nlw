@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-nlw/static/css/main.0c822c61.css",
+    "main.js": "/react-nlw/static/js/main.dfab24d4.js",
+    "static/js/592.be0a45cb.chunk.js": "/react-nlw/static/js/592.be0a45cb.chunk.js",
+    "static/media/logo-nlw-expert.svg": "/react-nlw/static/media/logo-nlw-expert.567938ad415149dd64483847176f0a36.svg",
+    "index.html": "/react-nlw/index.html",
+    "main.0c822c61.css.map": "/react-nlw/static/css/main.0c822c61.css.map",
+    "main.dfab24d4.js.map": "/react-nlw/static/js/main.dfab24d4.js.map",
+    "592.be0a45cb.chunk.js.map": "/react-nlw/static/js/592.be0a45cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c822c61.css",
+    "static/js/main.dfab24d4.js"
+  ]
+}
