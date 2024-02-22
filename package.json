@@ -1,6 +1,7 @@
 {
   "name": "nlw-expert-notes-typescript",
   "version": "0.1.0",
+  "homepage": "https://kayan-oti.github.io/react-nlw",
   "private": true,
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
@@ -47,6 +48,7 @@
   },
   "devDependencies": {
     "@types/dom-speech-recognition": "^0.0.4",
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.1"
   }
 }
